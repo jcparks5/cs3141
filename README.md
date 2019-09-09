@@ -1,2 +1,2 @@
 # cs3141
-Intro to git
+Edit for cs3141 assignment
